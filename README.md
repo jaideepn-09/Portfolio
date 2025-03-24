@@ -1,1 +1,1 @@
-"New portfolio coming soon"
+"New Portfolio coming soon"
