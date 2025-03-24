@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Portfolio
-=======
 # Portfolio V5  
 Hello everyone!  
 Let me introduce myself, I’m Eki Zulfar Rachman. On this occasion, I’d like to share the portfolio website project that I’ve developed.  
@@ -114,4 +111,3 @@ To configure Firebase for this project, follow these steps:
 6. **Update `firebase.js` and `firebase-comment.js` Files:**  
    - Replace the `firebaseConfig` content with your Firebase configuration.  
 
->>>>>>> master
